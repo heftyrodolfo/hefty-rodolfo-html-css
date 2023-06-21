@@ -1,0 +1,28 @@
+img {
+  width: 350px;
+}
+
+#thirdDiv {
+  height: 500px;
+  width: 500px;
+  background-color: pink;
+}
+
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
+
+#thirdDiv {
+  padding: 50px;
+  border: 30px, coral, palevioletred;
+}
+h1 {
+  color: chocolate;
+}
+h3 {
+  color: orangered;
+}
+h4 {
+  color: brown;
+}
